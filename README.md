@@ -1,7 +1,8 @@
 # Hello-world
 Getting start with GitHub
 Learning from the scratch!
-==This is a very important step in my personal journey of learning==
+
+**This is a very important step in my personal journey of learning**
 
 # List of topics
 ## Commands
